@@ -2,7 +2,7 @@
 
 *Rock & Roll*
 
-#### 기술 스택
+#### Stacks
 
 ![HTML badge](https://img.shields.io/badge/-HTML-orange)
 ![CSS badge](https://img.shields.io/badge/-CSS-blue)
