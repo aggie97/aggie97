@@ -3,7 +3,6 @@
 *Rock & Roll*
 
 #### Stacks
-
 ![HTML badge](https://img.shields.io/badge/-HTML-orange)
 ![CSS badge](https://img.shields.io/badge/-CSS-blue)
 ![JS badge](https://img.shields.io/badge/-JavaScript-yellow)
