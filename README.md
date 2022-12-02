@@ -2,8 +2,6 @@
 
 *Rock & Roll*
 
-현재는 코드 캠프에서 공부 중입니다.
-
 #### Stacks
 ---
 ![HTML badge](https://img.shields.io/badge/-HTML-orange)
